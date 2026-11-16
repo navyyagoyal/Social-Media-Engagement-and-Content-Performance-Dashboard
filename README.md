@@ -3,7 +3,7 @@
 Capstone project for **Data Handling, Visualization & Feature Engineering (AML001)**
 BCA (Hons.) AI & Data Science, KR Mangalam University
 
-**Name:** [Your Name] | **Roll No:** [Roll No] | **Section:** [Section]
+**Name:** Navya Goyal | **Roll No:** 2601201013 | **Section:** BCA (AI & DS) (H) - B
 
 ---
 
